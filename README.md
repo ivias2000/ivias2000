@@ -23,7 +23,8 @@ Greetings! I am Mahdi Aghapour, born in Tabriz in 2001. I attended a gifted high
 
 ## 🌐 Socials:
 
-<p><a href="http://ivias2000.site123.me/" target="_blank"><br><img src="https://s24.picofile.com/file/8454571884/website.png" alt="" width="25" height="25"></a><a href="mailto:mahdi.aghapour.s@gmail.com" target="_blank"><img src="https://s24.picofile.com/file/8454571876/email.png" alt="" width="25" height="25"></a><a href="https://github.com/ivias2000" rel="noopener noreferrer" target="_blank"><img src="https://s24.picofile.com/file/8454572134/Github.png" alt="" width="25" height="25"></a><a href="https://t.me/ivias2000" target="_blank"><img src="https://s24.picofile.com/file/8454573000/Telegram.png" width="25" height="25"></a><a href="https://github.com/ivias2000" rel="noopener noreferrer" target="_blank"></a><a </p>
+<p><a href="http://ivias2000.site123.me/" target="_blank"><br><img src="https://s24.picofile.com/file/8454571884/website.png" alt="" width="25" height="25"></a><a href="mailto:mahdi.aghapour.s@gmail.com" target="_blank"><img src="https://s24.picofile.com/file/8454571876/email.png" alt="" width="25" height="25"></a><a href="https://github.com/ivias2000" rel="noopener noreferrer" target="_blank"><img src="https://s24.picofile.com/file/8454572134/Github.png" alt="" width="25" height="25"></a><a 
+href="https://www.linkedin.com/in/mahdi-aghapour/" target="_blank"><img src="https://s25.picofile.com/file/8454571918/LinkedIn.png" alt="" width="25" height="25"></a><a                                                                                                                  href="https://t.me/rnas2000" target="_blank"><img src="https://s24.picofile.com/file/8454573000/Telegram.png" width="25" height="25"></a><a href="https://github.com/ivias2000" rel="noopener noreferrer" target="_blank"></a><a </p>
 
 # 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
